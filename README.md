@@ -56,8 +56,12 @@ The Spare Parts Management System is a comprehensive application for managing sp
 - A Java IDE like Eclipse or IntelliJ IDEA for development.
 - Java spring boot framework.
 
+
+
 **Installation:**
 1. Open your Java IDE.
 2. Import the backend project located in the backend directory.
 3. Build and run the backend application , The Application should start at port 8080 only.
 
+
+**For workflow of the project check** [here](https://github.com/RajatGupta2002/Spare-Parts-Management-System/blob/main/frontend/README.md).
