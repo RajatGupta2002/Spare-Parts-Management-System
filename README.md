@@ -43,3 +43,21 @@ The Spare Parts Management System is a comprehensive application for managing sp
 1. Clone the repository:
    ```bash
    git clone https://github.com/YourUsername/YourRepository.git
+2. Install the frontend dependencies
+   ```bash
+   npm install
+3. Running the frontend, Note that the application should start at port 3000 only.
+   ```bash
+   npm start
+
+### Backend (JAVA Spring boot)
+**Prerequisites:**
+- Java Development Kit (JDK) installed. You can download it from [here](https://www.oracle.com/java/technologies/downloads/).
+- A Java IDE like Eclipse or IntelliJ IDEA for development.
+- Java spring boot framework.
+
+**Installation:**
+1. Open your Java IDE.
+2. Import the backend project located in the backend directory.
+3. Build and run the backend application , The Application should start at port 8080 only.
+
