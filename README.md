@@ -42,7 +42,7 @@ The Spare Parts Management System is a comprehensive application for managing sp
 **Installation:**
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YourUsername/YourRepository.git
+   git clone https://github.com/RajatGupta2002/Spare-Parts-Management-System.git
 2. Install the frontend dependencies
    ```bash
    npm install
